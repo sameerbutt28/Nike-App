@@ -39,3 +39,6 @@ const App = () => (
   </main>
 );
 export default App;
+<div class=" border border-light rounded-3">
+Light
+</div>
